@@ -5,7 +5,7 @@ This project is designed for one to practice the Git/Github workflow here at Blo
 ## Directions to complete this assignment
 
 - [ ] Create your own version of this repo - Fork
-- [] Clone this repo
+- [ ] Clone this repo
 - [ ] Create a branch `git checkout -b 'firstName-lastName'`
   - [ ] Add your name to the list of names below.
   - [ ] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
